@@ -53,7 +53,7 @@ class HomePageState extends State<HomePage> {
                       ),
                       SizedBox(height: 24),
                       Text(
-                        'WOOOOOO!!! I love you pookie!! ;))',
+                        'I know you would say yes!',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 28,
